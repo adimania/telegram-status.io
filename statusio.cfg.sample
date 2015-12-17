@@ -1,0 +1,22 @@
+[statusio_auth]
+id: xxxx
+key: xxxx
+page: xxxx
+
+[statusio_components]
+component1: xxxx
+component2: xxxx
+
+[statusio_containers]
+container1: xxxx
+container2: xxxx
+
+[statusio_status]
+1:100
+3:300
+4:400
+5:500
+6:600
+
+[telegram]
+key: 123456:ASDFGHJKLqwertyuiop
